@@ -1,0 +1,9 @@
+.env
+.DS_Store
+.idea/
+.vscode/
+bin/
+coverage.out
+docs/IMPLEMENTATION_PLAN.md
+.agent/tasks/
+.agent/logs/
