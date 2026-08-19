@@ -2,9 +2,9 @@ package delivery
 
 import (
 	"context"
-	"github.com/wuqisen/reliable-notification-service/internal/domain"
-	"github.com/wuqisen/reliable-notification-service/internal/observability"
-	"github.com/wuqisen/reliable-notification-service/internal/store"
+	"github.com/Forest-Isle/rc_wuqisen/internal/domain"
+	"github.com/Forest-Isle/rc_wuqisen/internal/observability"
+	"github.com/Forest-Isle/rc_wuqisen/internal/store"
 	"log/slog"
 	"sync"
 	"time"

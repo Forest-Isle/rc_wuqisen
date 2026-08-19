@@ -2,8 +2,8 @@ package store
 
 import (
 	"context"
-	"github.com/wuqisen/reliable-notification-service/internal/domain"
-	"github.com/wuqisen/reliable-notification-service/internal/migrate"
+	"github.com/Forest-Isle/rc_wuqisen/internal/domain"
+	"github.com/Forest-Isle/rc_wuqisen/internal/migrate"
 	"os"
 	"sync"
 	"testing"

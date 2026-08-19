@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/wuqisen/reliable-notification-service/internal/app"
-	"github.com/wuqisen/reliable-notification-service/internal/config"
+	"github.com/Forest-Isle/rc_wuqisen/internal/app"
+	"github.com/Forest-Isle/rc_wuqisen/internal/config"
 	"os"
 	"os/signal"
 	"syscall"

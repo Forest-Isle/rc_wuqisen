@@ -8,9 +8,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/Forest-Isle/rc_wuqisen/internal/domain"
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
-	"github.com/wuqisen/reliable-notification-service/internal/domain"
 	"time"
 )
 

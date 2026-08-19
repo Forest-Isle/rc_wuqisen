@@ -2,9 +2,9 @@ package observability
 
 import (
 	"context"
+	"github.com/Forest-Isle/rc_wuqisen/internal/domain"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/wuqisen/reliable-notification-service/internal/domain"
 	"net/http"
 	"time"
 )

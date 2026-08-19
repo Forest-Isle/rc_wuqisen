@@ -1,4 +1,4 @@
-module github.com/wuqisen/reliable-notification-service
+module github.com/Forest-Isle/rc_wuqisen
 
 go 1.24.0
 

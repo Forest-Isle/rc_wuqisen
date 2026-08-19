@@ -3,7 +3,7 @@ package store
 import (
 	"context"
 	"errors"
-	"github.com/wuqisen/reliable-notification-service/internal/domain"
+	"github.com/Forest-Isle/rc_wuqisen/internal/domain"
 	"time"
 )
 

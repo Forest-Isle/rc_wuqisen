@@ -3,8 +3,8 @@ package delivery
 import (
 	"context"
 	"fmt"
-	"github.com/wuqisen/reliable-notification-service/internal/domain"
-	"github.com/wuqisen/reliable-notification-service/internal/target"
+	"github.com/Forest-Isle/rc_wuqisen/internal/domain"
+	"github.com/Forest-Isle/rc_wuqisen/internal/target"
 	"io"
 	"net/http"
 	"time"

@@ -2,6 +2,8 @@
 
 一个面向企业内部业务系统的可靠 HTTP(S) 通知 MVP。API 在 PostgreSQL 完成持久化后立即返回，后台 Worker 使用租约、指数退避和死信状态执行至少一次投递。
 
+本作业提交仓库名为 `rc_wuqisen`。
+
 问题理解、系统边界、架构和技术取舍见 [设计文档](docs/DESIGN.md)，AI 参与边界见 [AI 使用说明](docs/AI_USAGE.md)。
 
 ## 架构
